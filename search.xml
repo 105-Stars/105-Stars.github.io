@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>GitHub加速</title>
+      <link href="blog/ffe8.html"/>
+      <url>blog/ffe8.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="提高Github访问速度"><a href="#提高Github访问速度" class="headerlink" title="提高Github访问速度"></a>提高Github访问速度</h1><h2 id="一键修改Hosts文件"><a href="#一键修改Hosts文件" class="headerlink" title="一键修改Hosts文件"></a>一键修改Hosts文件</h2><p><img src="/blog/ffe8/1.png" alt="Github访问"></p><p>Github 在全球各地都有服务器，而国内 DNS 解析服务基本上都是把域名解析到了美国的服务器，所以访问起来会比较慢，但是，我们可以通过修改本地 hosts 文件来绕过国内 DNS 解析，直接访问 Github 在韩国、日本等的服务器（通常访问这俩国的服务器会比较快），从而达到加速访问的目的。</p><h3 id="推荐"><a href="#推荐" class="headerlink" title="推荐"></a>推荐</h3><p>个人推荐使用由羽翼城大佬开发的知名项目UsbEAm Hosts Editor进行一键修改hosts文件。因为这个软件的使用方法简单，同时适合新手使用。软件可以直接到大佬博客上进行下载或者使用我分享的地址下载，下载地址在文章结尾。</p><h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3><p>1、打开软件，点击软件左下角，选择准备修改 hosts 的网站</p><p><img src="/blog/ffe8/2.png" alt="步骤一"></p><p>2、检测延迟 » 选择延迟最低的IP地址 » 应用选中</p><p><img src="/blog/ffe8/3.png" alt="步骤二"></p><p>3、打开浏览器 » 访问Github</p><p><img src="/blog/ffe8/4.png" alt="步骤三"></p><h3 id="其他功能"><a href="#其他功能" class="headerlink" title="其他功能"></a>其他功能</h3><p>这款软件还可以用来加速 Steam、暴雪、育碧、Microsoft Store 等平台的访问与下载！（更多有趣功能等待大家的探索！）</p><p><img src="/blog/ffe8/5.png" alt="其他功能"></p><h2 id="一键访问镜像站（油猴脚本）"><a href="#一键访问镜像站（油猴脚本）" class="headerlink" title="一键访问镜像站（油猴脚本）"></a>一键访问镜像站（油猴脚本）</h2><h3 id="Github-的镜像站："><a href="#Github-的镜像站：" class="headerlink" title="Github 的镜像站："></a>Github 的镜像站：</h3><ul>    <li>http://git.what996.com</li>    <li>https://hub.fastgit.xyz​</li>    <li>https://cdn.githubjs.cf</li>    <li>https://hub.連接.台灣</li>    <li>https://hub.おうか.tw</li></ul><p>需要强调的是：不建议在这些镜像网站上登陆你的 Github 账号，会有安全隐患。</p><h3 id="推荐（使用油猴脚来一键访问）"><a href="#推荐（使用油猴脚来一键访问）" class="headerlink" title="推荐（使用油猴脚来一键访问）"></a>推荐（使用油猴脚来一键访问）</h3><p><img src="/blog/ffe8/6.png" alt="FastGithub脚本"></p><p>脚本地址：<a href="https://greasyfork.org/zh-CN/scripts/397419">https://greasyfork.org/zh-CN/scripts/397419</a></p><h1 id="提高Github文件下载速度"><a href="#提高Github文件下载速度" class="headerlink" title="提高Github文件下载速度"></a>提高Github文件下载速度</h1><h2 id="一键获取Github文件加速下载地址（油猴脚本）"><a href="#一键获取Github文件加速下载地址（油猴脚本）" class="headerlink" title="一键获取Github文件加速下载地址（油猴脚本）"></a>一键获取Github文件加速下载地址（油猴脚本）</h2><p>油猴上有很多 Github 加速下载的脚本，但比较推荐这个，因为这个脚本集合了目前几乎所有的 Github 文件下载加速的网站或开源项目。</p><p><img src="/blog/ffe8/7.png" alt="Github增强脚本"></p><p>脚本地址：<a href="https://greasyfork.org/scripts/412245">https://greasyfork.org/scripts/412245</a></p><h2 id="一键获取Github文件加速下载地址（浏览器扩展）"><a href="#一键获取Github文件加速下载地址（浏览器扩展）" class="headerlink" title="一键获取Github文件加速下载地址（浏览器扩展）"></a>一键获取Github文件加速下载地址（浏览器扩展）</h2><p><img src="/blog/ffe8/8.png" alt="Github加速插件"></p><p>扩展官网：<a href="https://fhefh2015.github.io/Fast-GitHub/">https://fhefh2015.github.io/Fast-GitHub/</a></p><p>个人推荐大家用上面的扩展插件，因为这个扩展插件的效果和油猴脚本类似，但提供的加速线路就远没脚本多了。</p><ul>    <li>GoogleChrome安装地址：https://chrome.google.com/webstore/detail/github%E5%8A%A0%E9%80%9F/ffjjnphohkfckeplcjflmgneebafggej?hl=zh-CN</li>    <li>极简插件安装地址：https://chrome.zzzmh.cn/info?token=mfnkflidjnladnkldfonnaicljppahpg</li>    <li>extfans安装地址：https://www.extfans.com/productivity/mfnkflidjnladnkldfonnaicljppahpg/</li>    <li>Edge安装地址：https://microsoftedge.microsoft.com/addons/detail/github%E5%8A%A0%E9%80%9F/alhnbdjjbokpmilgemopoomnldpejihb</li></ul><p>注意：GoogleChrome的安装地址需要翻墙（科学上网），为方便大家下载使用，同时也提供几个国内就可以访问的插件下载地址。</p><blockquote><p>下载地址：</p></blockquote><a class="btn-beautify button--animated " href="https://www.aliyundrive.com/s/5M6SVM2d8n4" title="阿里云盘"><i class="fas fa-download"></i><span>阿里云盘</span></a><a class="btn-beautify button--animated " href="https://www.dogfight360.com/blog/475/" title="羽翼城博客"><i class="fas fa-download"></i><span>羽翼城博客</span></a>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>解压工具--7-Zip</title>
+      <link href="blog/6b9f.html"/>
+      <url>blog/6b9f.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="解压工具"><a href="#解压工具" class="headerlink" title="解压工具"></a>解压工具</h1><p><img src="/blog/6b9f/7-Zip.png" alt="解压工具--7-Zip"></p><p>7-Zip是一款完全免费而且开源的压缩软件，相比其他软件有更高的压缩比而且相对于WinRAR不会消耗大量资源。</p><h2 id="7-Zip-主要特征"><a href="#7-Zip-主要特征" class="headerlink" title="7-Zip 主要特征"></a>7-Zip 主要特征</h2><ul>    <li>具有 LZMA 和 LZMA2 压缩的 7z 格式的高压缩率</li>    <li>支持的格式: 打包/解包：7z、XZ、BZIP2、GZIP、TAR、ZIP和WIM</li>    <li>仅解包：AR、ARJ、CAB、CHM、CPIO、CramFS、DMG、EXT、FAT、GPT、HFS、IHEX、ISO、LZH、LZMA、MBR、MSI、NSIS、NTFS、QCOW2、RAR、RPM、SquashFS、UDF 、UEFI、VDI、VHD、VMDK、WIM、XAR 和 Z。</li>    <li>对于 ZIP 和 GZIP 格式，7-Zip 提供的压缩率比 PKZip 和 WinZip 提供的压缩率高 2-10%</li>    <li>7z 和 ZIP 格式的强大 AES-256 加密</li>    <li>7z 格式的自解压能力</li>    <li>与 Windows Shell 集成</li>    <li>强大的文件管理器</li>    <li>强大的命令行版本</li>    <li>FAR 管理器插件</li>    <li>87 种语言的本地化</li>    <li>7-Zip 适用于 Windows 10 / 8 / 7 / Vista / XP / 2019 / 2016 / 2012 / 2008 / 2003 / 2000。并且7-Zip有面向Linux、Unix平台的命令行版本。</li></ul><blockquote><p>下载地址：</p></blockquote><a class="btn-beautify button--animated " href="https://www.aliyundrive.com/s/JpW159pEybQ" title="阿里云盘"><i class="fas fa-download"></i><span>阿里云盘</span></a><a class="btn-beautify button--animated " href="https://www.7-zip.org/download.html" title="官网"><i class="fas fa-download"></i><span>官网</span></a><a class="btn-beautify button--animated " href="https://sparanoid.com/lab/7z/download.html" title="官网中文"><i class="fas fa-download"></i><span>官网中文</span></a>]]></content>
+      
+      
+      <categories>
+          
+          <category> 解压工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 解压工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>解压工具-Bandzip</title>
       <link href="blog/52747.html"/>
       <url>blog/52747.html</url>
@@ -11,6 +61,18 @@
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="解压工具"><a href="#解压工具" class="headerlink" title="解压工具"></a>解压工具</h1><p><img src="/blog/52747/bandzip.png" alt="解压工具--BandZip"></p><p>Bandizip 是一个强大的多功能压缩文件管理工具，可提供很快的解压缩速度和其他各种实用功能。 这是一个免费的软件，其付费版本更是可以使用更多的实用功能。</p><h2 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h2><ul>    <li>支持操作系统: Windows Vista/7/8/10 (x86/x64/ARM64)</li>    <li>许可类型：免费软件(EULA)</li>    <li>全能的压缩/解压/浏览/编辑软件</li>    <li>可提取30多种格式，包括RAR/RAR5/7Z/ZIP等</li>    <li>包含密码压缩和分卷压缩功能</li>    <li>支持多核高速压缩</li></ul><h2 id="压缩"><a href="#压缩" class="headerlink" title="压缩"></a>压缩</h2><ul>    <li>支持的格式: ZIP, 7Z(lzma2), ZIPX(xz), EXE(sfx), TAR, TGZ, LZH(lh7), ISO(joliet), GZ, XZ</li>    <li>ZIP文件修改（添加/删除/重命名）</li>    <li>支持多核并行，压缩速度可提升至多达6倍</li>    <li>加密压缩</li>    <li>支持AES256加密算法</li>    <li>支持4GB 以上大小的文件压缩</li>    <li>对ZIP格式支持Unicode或MBCS文件名</li></ul><h2 id="解压"><a href="#解压" class="headerlink" title="解压"></a>解压</h2><ul>    <li>支持的格式: 7Z, ACE, AES, ALZ, ARJ, BH, BIN, BZ, BZ2, CAB, Compound(MSI), EGG, GZ, IMG, ISO, ISZ, LHA, LZ, LZH, LZMA, PMA, RAR, RAR5, SFX(EXE), TAR, TBZ, TBZ2, TGZ, TLZ, TXZ, UDF, WIM, XPI, XZ, Z, ZIP, ZIPX, ZPAQ</li>    <li>轻松查看压缩包内文件</li>    <li>可只解压选定文件，支持拖拽解压</li>    <li>可对ZIP和RAR格式添加注释</li>    <li>一步解压TGZ/TBZ格式的文件</li></ul><blockquote><p>下载地址：</p></blockquote><a class="btn-beautify button--animated " href="https://www.aliyundrive.com/s/ShSanhkqX4i" title="阿里云盘"><i class="fas fa-download"></i><span>阿里云盘</span></a><a class="btn-beautify button--animated " href="https://www.bandisoft.com/bandizip/" title="官网"><i class="fas fa-download"></i><span>官网</span></a>]]></content>
       
       
+      <categories>
+          
+          <category> 解压工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 解压工具 </tag>
+            
+        </tags>
       
     </entry>
     
