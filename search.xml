@@ -4,6 +4,206 @@
   
     
     <entry>
+      <title>Internet Download Manager</title>
+      <link href="blog/undefined.html"/>
+      <url>blog/undefined.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="IDM（Internet-Download-Manager）"><a href="#IDM（Internet-Download-Manager）" class="headerlink" title="IDM（Internet Download Manager）"></a>IDM（Internet Download Manager）</h1><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>IDM 全名Internet Download Manager  是一款国外的多线程下载神器（简称IDM） 由悦享云绿化集成破解模块，正版序列号制作而成的绿色授权版，启动即为授权正式版，Internet Download Manager 支持多媒体下载、自动捕获链接、自动识别文件名、静默下载、批量下载、计划下载任务、站点抓取、队列等等是一款国外的老牌下载工具。</p><h2 id="主要功能介绍"><a href="#主要功能介绍" class="headerlink" title="主要功能介绍"></a>主要功能介绍</h2><ul>    <li>下载速度加速:Internet Download Manager 采用智能动态文件分割技术，可将下载速度提高 5 倍。与其他下载管理器和加速器不同，Internet 下载管理器在下载过程中对下载的文件进行动态分段，并且无需额外的连接和登录阶段即可重用可用连接，以实现最佳的加速性能。</li>    <li>从您喜欢的网站下载文件:安装“IDM 集成模块”浏览器扩展程序后，继续上网，您会惊讶于从您喜欢的网站下载您想要的所有内容是多么容易。</li>    <li>支持所有流行的浏览器:IDM 无缝集成到 Microsoft Edge、Google Chrome、Mozilla Firefox、Opera、Internet Explorer、Safari、MSN Explorer、AOL、Mozilla Firebird、Avant Browser、Maxthon 和所有其他流行的浏览器，以自动处理您的下载。</li>    <li>一键轻松下载:当您在浏览器中单击下载链接时，IDM 将接管下载并加速下载。您不需要做任何特别的事情，只需像往常一样浏览互联网即可。IDM 将捕获您的下载并加速它们。IDM 支持 HTTP、FTP、HTTPS 和 MMS 协议。</li>    <li>深色主题:IDM 深色主题在其大部分 UI 中显示深色表面。它被设计为默认（或浅色）主题的补充模式。深色主题可降低屏幕发出的亮度，同时仍能满足最低色彩对比度。它通过减少眼睛疲劳、根据当前照明条件调整亮度以及在黑暗环境中促进屏幕使用同时节省电力来帮助改善视觉人体工程学。</li>    <li>动态分割:Internet 下载管理器优化了文件下载逻辑。IDM 在文件段上动态划分下载的文件，这与其他下载加速器在下载过程开始之前将下载的文件划分为段不同。动态分段显着提高了下载性能。当文件下载开始时，不清楚可以打开多少个连接。当新连接可用时，IDM 会找到要下载的最大段并将其分成两半。因此，新连接从最大文件段的一半开始下载文件。IDM 最大限度地减少了与服务器协商所需的时间，并使所有连接保持忙碌状态。</li>    <li>下载简历:Internet 下载管理器将从他们停止的地方恢复未完成的下载。全面的错误恢复和恢复功能将重新启动因丢失或断开连接、网络问题、计算机关闭或意外断电而导致的中断或中断下载。</li>    <li>内置调度器:Internet 下载管理器可以在设定的时间连接到 Internet、下载所需的文件、断开连接或在完成后关闭计算机。您还可以使用文件的定期同步来同步更改。可以创建和安排多个下载队列以进行下载或同步。</li>    <li>IDM 包括网站蜘蛛和抓取器:IDM 从网站下载所有使用过滤器指定的所需文件，例如来自网站的所有图片，或网站的子集，或用于离线浏览的完整网站。可以安排多个抓取项目在指定时间运行一次，在指定时间停止它们，或定期运行以同步更改。</li>    <li>可定制的界面:您可以选择显示在 IDM 主窗口上的顺序、按钮和列。工具栏有几种不同的皮肤，具有不同的按钮样式。所有皮肤都可以从 IDM 主页下载。用户也可以设计自己的皮肤。</li></ul><h2 id="缺点"><a href="#缺点" class="headerlink" title="缺点"></a>缺点</h2><p>IDM 是纯正的 HTTP，FTP 等基础文件协议下载工具，发展至今仍不支持 BT 与 电驴。同时，IDM 是单地址多线程下载，下载速度取决于源地址，可在较理想的环境下发挥速度优势，而对于国内 (死链较多的) 不规范网站无能为力。同时，由于国内大多下载渠道都采用封闭技术，不开放 API ，使得 IDM 对国内的网盘或 “特别链接” 没有特殊优化，算是小小的遗憾。</p><h2 id="安装版"><a href="#安装版" class="headerlink" title="安装版"></a>安装版</h2><p>1、安装版需要注意，IDM 默认是英文界面，一般情况下在安装、河蟹完成后，使用一段时间就会自动提示切换语言；如果IDM不提示切换中文，这个时候就可以自己手动设置首先关闭 IDM ，然后删除安装目录下的 Languages 文件夹里的全部文件，然后<a href="https://www.aliyundrive.com/s/RDtou8iKXdo">点击这里</a>下载中文语言包，解压后拷贝到  Languages 文件夹里，打开 IDM，依次点击 View –  Languages – 简体中文，这样就可以切换到中文界面了。</p><p>2、河蟹补丁的使用方法：安装完成后，IDM 会自动打开，先关闭它，然后将河蟹补丁拷贝到 IDM 安装目录下，打开河蟹补丁，点击 Crack IDM 按钮进行河蟹。</p><h2 id="hosts屏蔽弹窗"><a href="#hosts屏蔽弹窗" class="headerlink" title="hosts屏蔽弹窗"></a>hosts屏蔽弹窗</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">0.0.0.0 internetdownloadmanager.com</span><br><span class="line">0.0.0.0 rev.dyxnet.com</span><br><span class="line">0.0.0.0 registeridm.com</span><br><span class="line">0.0.0.0 169.55.40.5</span><br><span class="line">0.0.0.0 secure.registeridm.com</span><br><span class="line">0.0.0.0 169.55.40.5</span><br><span class="line">0.0.0.0 http:&#x2F;&#x2F;www.registeridm.com</span><br><span class="line">0.0.0.0 169.55.40.5</span><br><span class="line">0.0.0.0 http:&#x2F;&#x2F;www.secure.registeridm.com</span><br><span class="line">0.0.0.0 169.55.40.5</span><br><span class="line">0.0.0.0 secure.internetdownloadmanager.com</span><br><span class="line">0.0.0.0 169.55.0.227</span><br><span class="line">0.0.0.0 star.tonec.com</span><br><span class="line">0.0.0.0 169.55.40.5</span><br><span class="line">0.0.0.0 tonec.com</span><br><span class="line">0.0.0.0 50.22.78.28</span><br><span class="line">0.0.0.0 http:&#x2F;&#x2F;www.tonec.com</span><br><span class="line">0.0.0.0 50.22.78.28</span><br><span class="line">0.0.0.0 mirror.tonec.com</span><br><span class="line">0.0.0.0 69.41.163.49</span><br><span class="line">0.0.0.0 mirror3.tonec.com</span><br><span class="line">0.0.0.0 174.127 .73.80</span><br><span class="line">0.0.0.0 mirror4.tonec.com</span><br><span class="line">0.0.0.0 50.22.78.28</span><br><span class="line">0.0.0.0 mirror5.tonec.com</span><br><span class="line">0.0.0.0 185.80.221.19</span><br><span class="line">0.0.0.0 mirror.internetdownloadmanager.com</span><br><span class="line">0.0.0.0 69.41.163.149</span><br><span class="line">0.0.0.0 mirror2.internetdownloadmanager.com</span><br><span class="line">0.0.0.0 50.97.82.44</span><br><span class="line">0.0.0.0 mirror3.internetdownloadmanager.com</span><br><span class="line">0.0.0.0 174.127.73.85</span><br><span class="line">0.0.0.0 mirror4.internetdownloadmanager.com</span><br><span class="line">0.0.0.0 50.22.78.29</span><br><span class="line">0.0.0.0 mirror5.internetdownloadmanager.com</span><br><span class="line">0.0.0.0 185.80.221.19</span><br><span class="line">0.0.0.0 mirror6.internetdownloadmanager.com</span><br><span class="line">0.0.0.0 169.55.0.224</span><br><span class="line">0.0.0.0 http:&#x2F;&#x2F;www.mirror6.internetdownloadmanager.com</span><br><span class="line">0.0.0.0 169.55.0.224</span><br><span class="line">0.0.0.0 internetdownloadmanager.com</span><br><span class="line">0.0.0.0 169.55.40.5</span><br><span class="line">0.0.0.0 http:&#x2F;&#x2F;www.internetdownloadmanager.com</span><br><span class="line">0.0.0.0 169.55.0.224</span><br><span class="line">0.0.0.0 data.internetdownloadmanager.com</span><br><span class="line">0.0.0.0 50.22.78.31</span><br><span class="line"></span><br></pre></td></tr></table></figure><h2 id="假冒序列号"><a href="#假冒序列号" class="headerlink" title="假冒序列号"></a>假冒序列号</h2><p>如果提示假冒序列号，请下载“IDM清理重置及注册假冒序列号工具”，点击“Reset the IDM trial now”，然后重新河蟹即可</p><p>IDM RePack by KpoJIuK // IDM RePack by elchupacabra 这2个版本为俄罗斯大神重新封装的版本，请运行里面的BAT批处理安装即可授权成功</p><p>简体中文语言切换：运行软件 &gt; View &gt; Language &gt; 简体中文</p><blockquote><p>下载地址：</p></blockquote><a class="btn-beautify button--animated " href="https://www.aliyundrive.com/s/ymXD47SPDUc"   title="阿里云盘"><i class="fas fa-download"></i><span>阿里云盘</span></a><a class="btn-beautify button--animated " href="https://www.internetdownloadmanager.com/download.html"   title="官网"><i class="fas fa-download"></i><span>官网</span></a>]]></content>
+      
+      
+      <categories>
+          
+          <category> 下载工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 下载工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Windows11实用小工具</title>
+      <link href="blog/da35.html"/>
+      <url>blog/da35.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>众所周知，微软在 Windows 系统更新方面从来不考虑用户的习惯和体验，而是更倾向于自身独断专行。</p><p>这一点在老版 Windows 和 Win11 上体现得淋漓尽致，Windows 8 系统一改传统开始菜单，大胆启用开始屏幕，就曾雷倒过众多 Windows 的 老用户。</p><p>Win11 的发布，更是让微软再次成为众矢之的，浪费空间的开始菜单、功能缺失的任务栏、形同虚设的右键菜单都成为这款新系统糟点满满的吐槽之处。</p><p><img src="./Windows11实用小工具/0.png" alt=""></p><p>不过，虽然系统由微软设计和开发，我们这些用户也只有接纳和默认的份了，但并不意味着我们就无法对此做出改变，今天我就分享几款非常实用的 Windows 优化小工具。</p><hr><h1 id="实用工具"><a href="#实用工具" class="headerlink" title="实用工具"></a>实用工具</h1><h2 id="InControl"><a href="#InControl" class="headerlink" title="InControl"></a>InControl</h2><p>很多人在安装完系统之后，做的第一件事就是关闭系统的更新，他们这样做的原因无非就是觉得每次系统更新太费时间，不如直接来个痛快的以绝后患。</p><p>但其实我个人不建议这么极端，因为系统更新也可以分为安全性的修复更新和版本号的更新，如果只是觉得系统更新太麻烦，不如关闭版本更新，开启安全更新。</p><p><img src="./Windows11实用小工具/1-1.png" alt=""></p><p>系统安全更新其实非常重要，如果不及时修复系统漏洞，系统随时都会有各种安全风险的发生，与此相比，版本更新反倒显得不那么重要。</p><p>那么怎么做到只关闭系统版本更新（upgrade），而不关闭安全更新（update）呢？</p><p>InControl 这款工具就可以做到！</p><p><img src="./Windows11实用小工具/1-2.png" alt=""></p><p>使用的时候，我们只需要点击软件下方的“Take Control”按钮就行了，如果看到中间字体变为绿色，说明已经设置成功。</p><p><img src="./Windows11实用小工具/1-3.png" alt=""></p><p>如果需要恢复版本更新，那么可以再次点击“Release Contro”按钮。</p><p>若是还想控制版本号，让系统只限于最高更新到某个版本，还可以在软件左下角编辑框位置进行自定义编辑。</p><p><img src="./Windows11实用小工具/1-4.png" alt=""></p><hr><h2 id="W11ClassicMenu"><a href="#W11ClassicMenu" class="headerlink" title="W11ClassicMenu"></a>W11ClassicMenu</h2><p>在更新到 Win11 之后，右键菜单也迎来了重大更新，原先老版完整的右键菜单设计被抛弃，转而使用双层叠右键菜单。</p><p><img src="./Windows11实用小工具/2-1.png" alt=""></p><p>原先简单一步到位的右键操作现在需要两步才能完成，微软你这是怎么想的？</p><p>为了恢复老版的右键完整菜单，我们可以使用这款 W11ClassicMenu。纯绿色、免安装、不到 1M 的体积，让 W11ClassicMenu 只能体现出各种优点。</p><p><img src="./Windows11实用小工具/2-2.png" alt=""></p><p>就这简单明了的操作界面，怎么使用就不用我说了吧！</p><hr><h2 id="Classic-Volume-Mixer"><a href="#Classic-Volume-Mixer" class="headerlink" title="Classic Volume Mixer"></a>Classic Volume Mixer</h2><p>记得在 Win10 之前，系统右下角托盘栏上的音量按钮在点击之后，会出现一个音量合成器，音量合成器的作用是可以对不同应用程序的音量进行分别不同的控制。</p><p>不过这一优良设计，在 Win10 和 Win11 上已经早已不复存在，转而由一条很简单的总音量调节滑块代替。</p><p><img src="./Windows11实用小工具/3-1.png" alt=""></p><p>于是就要大佬制作了一款第三方音量合成器程序，可以帮我们找回曾经熟悉的记忆。</p><p><img src="./Windows11实用小工具/3-2.png" alt=""></p><p>Classic Volume Mixer 这款程序运行之后，会常驻右下角，我建议将它放在电脑开机启动文件夹中，这样就不必每次重启计算机时都去手动启动它。</p><hr><blockquote><p>下载地址：</p></blockquote><a class="btn-beautify button--animated " href="https://www.aliyundrive.com/s/BcZKLVLUPgS"   title="阿里云盘"><i class="fas fa-download"></i><span>阿里云盘</span></a>]]></content>
+      
+      
+      <categories>
+          
+          <category> win11实用工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> win11实用工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>卸载工具-YourUninstaller</title>
+      <link href="blog/6a0d.html"/>
+      <url>blog/6a0d.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="卸载工具"><a href="#卸载工具" class="headerlink" title="卸载工具"></a>卸载工具</h1><p><img src="./卸载工具-YourUninstaller/YourUninstaller.png" alt="卸载工具-YourUninstaller"></p><p>Your Uninstaller是一款URSoft.Inc推出的智能软件卸载工具，能干净、完整的卸载不需要的组件。软件支持拖拽功能，具有一种独特的“狙击模式”，当开启时，屏幕上会出现一个准心，你可以像打CS一样把看不顺眼的程序狙掉，非常方便。同时，其还具备启动项管理、垃圾文件清除、隐私擦除、文件粉碎等实用功能。</p><h2 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h2><ul>    <li>功能强大的快速卸载和高级卸载功能。</li>    <li>自启动管理程序！管理系统启动程序。</li>    <li>磁盘清理工具，清理系统垃圾。</li>    <li>开始菜单管理程序，清除无效开始菜单项。</li>    <li>隐私擦除器，全面清理隐私数据，保护个人隐私安全。</li>    <li>文件粉碎器，彻底删除文件，保证不留残余。</li>    <li>快速调用Windows系统工具。</li></ul><h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2><ul>    <li>您的软体移除工具，完全取代 Windows 内建的控制台「新增/移除程式」功能，并内建「启动」管理功能。</li>    <li>软体介面清新整洁，可以用大图示、小图示、详细清单显示安装项目。</li>    <li>以滑鼠点两下图示或使用滑鼠右键来移除软体。</li></ul><h2 id="相关设置"><a href="#相关设置" class="headerlink" title="相关设置"></a>相关设置</h2><p>中文语言设置方法：<br>“View”–“Languages”–“Simplified Chinese”</p><h2 id="Your-Uninstaller注册码"><a href="#Your-Uninstaller注册码" class="headerlink" title="Your Uninstaller注册码"></a>Your Uninstaller注册码</h2><p>注册码：<br>用户名: 大眼仔~旭（Anan）<br>注册码: 15AT8P-7VYVW2-PQZU4W-TXB6UD-AP9Q7U-KDNY8V-ZZFZZZ-ZZZZZZ-ZWCJP9-51VJ00-800000-000000</p><p>用户名: 大眼仔~旭（Anan）<br>注册码: 14CGE5-B4P3D5-CQNMZR-TXB6UD-AP9Q7U-KDNY8V-ZZFZZZ-ZZZZZZ-ZWCJP9-51VJ00-800000-000000</p><p>用户名: 大眼仔~旭（Anan）<br>注册码: 159ZUX-BGR1UM-D3CHWW-TXB6UD-AP9Q7U-KDNY8V-ZZFZZZ-ZZZZZZ-ZWCJP9-51VJ00-800000-000000</p><p>用户名: 大眼仔~旭（Anan）<br>注册码: 15AT8P-7VYVW2-PQZU4W-TXB6UD-AP9Q7U-KDNY8V-ZZFZZZ-ZZZZZZ-ZWCJP9-51VJ00-800000-000000</p><p>用户名: 大眼仔~旭（Anan）<br>注册码: 14CGE5-B4P3D5-CQNMZR-TXB6UD-AP9Q7U-KDNY8V-ZZFZZZ-ZZZZZZ-ZWCJP9-51VJ00-800000-000000</p><p>用户名: 大眼仔~旭（Anan）<br>注册码: 159ZUX-BGR1UM-D3CHWW-TXB6UD-AP9Q7U-KDNY8V-ZZFZZZ-ZZZZZZ-ZWCJP9-51VJ00-800000-000000</p><p>用户名：sharyn kolibob<br>注册码：000016-9P0U6X-N5BBFB-EH9ZTE-DEZ8P0-9U4R72-RGZ6PF-EMYUAZ-9J6XQQ-89BV1Z</p><p>用户名：Giveawayoftheday<br>注册码：000017-2PNBK2-J59U6F-317E09-R5TGJQ-6B1WNA-AZCYNJ-GVP86A-7VP2MX-JFY2Q1</p><blockquote><p>下载地址：</p></blockquote><a class="btn-beautify button--animated " href="https://www.aliyundrive.com/s/TP6BBLs3NSs"   title="阿里云盘"><i class="fas fa-download"></i><span>阿里云盘</span></a><a class="btn-beautify button--animated " href="http://www.ursoftware.com/"   title="官网"><i class="fas fa-download"></i><span>官网</span></a>]]></content>
+      
+      
+      <categories>
+          
+          <category> 卸载工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 卸载工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>卸载工具-AshampooUnInstaller</title>
+      <link href="blog/b830.html"/>
+      <url>blog/b830.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="卸载工具"><a href="#卸载工具" class="headerlink" title="卸载工具"></a>卸载工具</h1><p><img src="./卸载工具-AshampooUnInstaller/AshampooUnInstaller.png" alt="卸载工具-AshampooUnInstaller"></p><p>Ashampoo UnInstaller是一款体积小巧但功能强大的应用程序卸载清理软件，它为用户提供了一个安装、测试以及卸载应用程序的完美方案，可以在软件安装时记录对系统的修改，确保在删除应用程序时，彻底删除每个文件残留和对注册表的更改，不留下痕迹，支持清理系统缓存和隐私痕迹，此外，Ashampoo UnInstaller还可以卸载windows8、10自带的应用程序，比如人脉、天气、邮件日历等，总之，想要完全删除无用的程序、工具栏和插件。</p><h2 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h2><ul>    <li>Ashampoo UnInstaller支持备份功能，您也可以在软件界面对数据备份；</li>    <li>支持在删除之前备份数据，避免自己删除主要的资源；</li>    <li>支持查询资源，可以在软件查看已经备份的数据；</li>    <li>支持恢复数据，可以将最近十天删除的数据恢复，可以将三十天的数据恢复；</li>    <li>支持安装监控，可以将EXE添加到这款软件安装，从而监控安装的全部数据以及安装地址；</li>    <li>以后卸载软件的时候就可以立即从监控的数据安装地址卸载，保证完整清理；</li>    <li>在主界面显示统计功能，显示已经安装的软件数量、显示插件数量。</li></ul><h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2><ul>    <li>程序配置文件，即使是那些安装未受监控的程序，也能完美清洁；</li>    <li>在程序删除期间安全删除机密数据；</li>    <li>即使是最复杂的安装程序也可以删除；</li>    <li>即使在标准删除的情况下，也可以自动搜索剩余文件；</li>    <li>远程应用程序的历史；</li>    <li>全Opera支持；</li>    <li>更新了模块和清洁工具；</li>    <li>通过拖动程序快捷方式快速删除；</li>    <li>先进的深层清洁技术；</li>    <li>有关已安装程序的更多信息；</li>    <li>比以往更快，更稳定；</li>    <li>在计划的所有部分都易于管理；</li>    <li>Microsoft认证驱动程序软件；</li>    <li>具有多种功能的通知区域图标；</li>    <li>没有怜悯：甚至删除锁定的文件；</li>    <li>更快地访问功能；</li>    <li>Windows应用程序的新子类别；</li>    <li>由于改进的界面，更方便的工作流程；</li>    <li>与Ashampoo UnInstaller 7完全兼容。</li></ul><blockquote><p>下载地址：</p></blockquote><a class="btn-beautify button--animated " href="https://www.aliyundrive.com/s/bzCLsakBvYE"   title="阿里云盘"><i class="fas fa-download"></i><span>阿里云盘</span></a><a class="btn-beautify button--animated " href="https://www.ashampoo.com/zh-cn/uninstaller"   title="官网"><i class="fas fa-download"></i><span>官网</span></a>]]></content>
+      
+      
+      <categories>
+          
+          <category> 卸载工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 卸载工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>卸载工具-IObitUninstaller</title>
+      <link href="blog/2942.html"/>
+      <url>blog/2942.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="卸载工具"><a href="#卸载工具" class="headerlink" title="卸载工具"></a>卸载工具</h1><p><img src="./卸载工具-IObitUninstaller/IObitUninstaller.png" alt="卸载工具-IObitUninstaller"></p><p>IObit Uninstaller是一款功能强大的软件，能够有效地取代Windows自带的卸载功能。通过它，你可以彻底卸载不需要的软件，不留下软件的相关信息，并且不会造成系统崩溃。</p><h2 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h2><ul>    <li>支持强制卸载和文件粉碎功能。</li>    <li>支持谷歌浏览器、火狐浏览器、IE浏览器、欧朋浏览器的插件卸载。一键卸载提升浏览器速度和安全。</li>    <li>支持批量卸载，支持强力扫描卸载。</li>    <li>支持浏览器插件评分评级。</li>    <li>100%免费，界面大方美观。</li>    <li>强制卸载功能。遇到软件卸载失败的话，利用这个功能可以把软件强制卸载掉，而你唯一需要做的就是指定软件的主程序名。</li>    <li>批量卸载软件。如果你经常尝试各种软件的话，批量卸载功能可以帮你节省很多时间。</li>    <li>使用简单高效的方式卸载浏览器中无用的工具条。</li>    <li>可以列出最近安装了哪些软件</li>    <li>它能够告诉你哪些软件的体积非常臃肿，占据了大量硬盘空间。像这样的软件，建议都删除。</li>    <li>在界面的右键菜单中可以方便的查看软件安装文件夹。</li>    <li>卸载windows的补丁。</li></ul><h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2><ul>    <li>完全免费，绿色版无须安装。</li>    <li>带有中文界面。首次运行默认是英文界面，在右上角的“more”-“language”菜单中可以把语言切换成中文。</li>    <li>强制卸载功能。遇到软件卸载失败的话，利用这个功能可以把软件强制卸载掉，而你唯一需要做的就是指定软件的主程序名。</li>    <li>批量卸载软件。如果你和软件No1一样经常尝试各种软件的话，批量卸载功能可以帮你节省很多时间。</li>    <li>使用简单高效的方式卸载浏览器中无用的工具条。</li>    <li>可以列出最近安装了哪些软件。</li>    <li>它能够告诉你哪些软件的体积非常臃肿，占据了大量硬盘空间。像这样的软件，建议都删除。</li>    <li>在界面的右键菜单中可以方便的查看软件安装文件夹。</li></ul><blockquote><p>下载地址：</p></blockquote><a class="btn-beautify button--animated " href="https://www.aliyundrive.com/s/opBVxihg6ji"   title="阿里云盘"><i class="fas fa-download"></i><span>阿里云盘</span></a><a class="btn-beautify button--animated " href="https://www.iobit.com/en/advanceduninstaller.php"   title="官网"><i class="fas fa-download"></i><span>官网</span></a>]]></content>
+      
+      
+      <categories>
+          
+          <category> 卸载工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 卸载工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>卸载工具-PyDebloatX</title>
+      <link href="blog/eef3.html"/>
+      <url>blog/eef3.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="卸载工具"><a href="#卸载工具" class="headerlink" title="卸载工具"></a>卸载工具</h1><p><img src="./卸载工具-PyDebloatX/PyDebloatX.png" alt="卸载工具-PyDebloatX"></p><p>PyDebloatX是一款功能强大、简单易用的系统程序卸载软件，该软件专用于卸载win10默认应用的软件，对应部分需要进行系统默认应用进行卸载的用户可以下载这款软件进行系统程序卸载，众所周知系统默认程序是不可卸载的，但有些程序用户又用不到，而用户又想要卸载，因此下载这款系统程序卸载软件可以帮助用户轻松解决这个问题；PyDebloatX这款卸载默认应用软件体积轻量、专业实用，可以安全有效、干净无痕的卸载系统默认程序，可以最大限度的释放应用程序磁盘空间，非常简单方便。</p><h2 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h2><ul>    <li>PyDebloatX可以对系统程序进行卸载</li>    <li>可以一键刷新安装的应用程序列表</li>    <li>查看Microsoft Store 中的应用程序链接</li>    <li>可访问 Github 页面</li>    <li>可以了解软件相关信息</li>    <li>可以直接退出应用程序</li></ul><h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2><ul>    <li>PyDebloatX体积小巧、占用系统空间不大</li>    <li>界面简洁直观、操作简单易使用</li>    <li>支持一键高效卸载勾选软件</li>    <li>支持干净利落的进行安装程序卸载</li>    <li>可以了解软件系统存现占用空间</li>    <li>软件绿色安全、完全免费</li></ul><h2 id="实用快捷键"><a href="#实用快捷键" class="headerlink" title="实用快捷键"></a>实用快捷键</h2><ul>    <li>CTRL R – 刷新已安装的应用程序列表。</li>    <li>CTRL S – 查看 Microsoft Store 中应用程序的链接。</li>    <li>CTRL G – 访问 GitHub 页面。</li>    <li>CTRL A – 查看“关于”窗口。</li>    <li>CTRL Q – 退出应用程序。</li></ul><h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><ul>    <li>实现软件下载双击软件进入软件装置协定界面，点击我批准按钮便可举行软件装置；</li>    <li>进入软件装置界面点击install装置按钮便可举行软件装置；</li>    <li>实现软件装置后点击finish按钮便可封闭软件装置弹框；</li>    <li>双击软件便可启动软件举行软件步伐卸载界面；</li>    <li>点击勾选必要卸载的步伐包容后点击卸载按钮便可举行步伐卸载；</li>    <li>点击visit GitHub page按钮弹出提醒弹框，点击yes按钮便可进入软件官网界面；</li>    <li>点击软件左下角的加入按钮弹出提醒弹框，点击yes按钮便可间接加入软件。</li></ul><blockquote><p>下载地址：</p></blockquote><a class="btn-beautify button--animated " href="https://www.aliyundrive.com/s/GJmcUW7Sm6k"   title="阿里云盘"><i class="fas fa-download"></i><span>阿里云盘</span></a><a class="btn-beautify button--animated " href="https://pydebloatx.com/"   title="官网"><i class="fas fa-download"></i><span>官网</span></a>]]></content>
+      
+      
+      <categories>
+          
+          <category> 卸载工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 卸载工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>卸载工具-WiseProgramUninstaller</title>
+      <link href="blog/9632.html"/>
+      <url>blog/9632.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="卸载工具"><a href="#卸载工具" class="headerlink" title="卸载工具"></a>卸载工具</h1><p><img src="./卸载工具-WiseProgramUninstaller/WiseProgramUninstaller.png" alt="卸载工具-WiseProgramUninstaller"></p><p>Wise Program Uninstaller是WiseCleaner出品的一款完全免费的程序卸载（卸载程序）工具。Wise Program Uninstaller 提供了安全卸载，程序修复，强力卸载以及删除条目等几项主要功能。当安装程序较多时，可以方便地通过软件内置的搜索器进行快速查找，有效提高查找效率。</p><h2 id="主要功能"><a href="#主要功能" class="headerlink" title="主要功能"></a>主要功能</h2><ul>    <li>干净彻底的卸载软件:Wise Program Uninstaller是卸载Windows应用程序的最佳解决方案。它具有界面直观，操作简单易用特点，能够快速且彻底的卸载应用程序。其强大的残余项扫描引擎可以在卸载完成后找出并删除该应用程序残留在系统中的文件，文件夹和注册表项，确保该应用程序从你的系统中完全清除。</li>    <li>强制卸载、移除:对于某些特殊的，或者是自卸载程序损坏或缺失的程序，是无法通过常规方式卸载的，Wise Program Uninstaller的“强制卸载”可以轻松的处理。它将扫描系统中指定程序的所有文件和文件夹以及注册表键，然后彻底删除它们，就像从来没有安装过一样。</li>    <li>自定义卸载删除未列出的程序:某些特殊的程序，即使我们是通过正常的方式安装，但是也没有在 控制面板 > 程序和功能 或 Windows设置 > 应用程序 中列出来。 因此，这些程序就无法使用常规方式卸载和删除。 Wise Program Uninstaller 的自定义卸载功能支持卸载这些未列出的程序。 您只需要选择程序所在的文件夹，然后自定义卸载将自动搜索并删除相关文件和注册表项。</li>    <li>批量卸载不需要的浏览器扩展程序:卸载长期不用的或无用的浏览器扩展程序和插件，可以有效加快浏览器的启动速度，减少对系统资源的占用，提高系统运行速度。Wise Program Uninstaller 支持批量卸载 Microsoft IE、Microsoft Edge、Mozilla Firefox 和 Google Chrome 的扩展程序、插件和附加组件（包括 BHO）。</li>    <li>方便快捷的右键菜单:可以将“使用WPU卸载”添加到系统右键菜单里面，需要卸载某个程序时，只需要在该程序的图标上呼出右键菜单，选择“使用WPU卸载”就可以在不打开Wise Program Uninstaller的情况下快速卸载程序。</li>    <li>完全免费且完美兼容Windows 11:Wise Program Uninstaller是一个完全免费的软件，它可以帮你彻底卸载应用程序无论是32位还是64位。无论你的电脑是笔记本还是台式机，无论你的系统是Windows 11，Windows 10，Windows 8/8.1，Windows 7，或者是Windows Vista，甚至是Windows XP，Wise Program Uninstaller都能够完美运行。</li></ul><h2 id="软件特点"><a href="#软件特点" class="headerlink" title="软件特点"></a>软件特点</h2><ul>    <li>安全卸载：通过windows调用各程序自身的卸载 exe，来卸载大部分程序。</li>    <li>程序修复：主要是修复一些大型的软件，如 Adobe 的程序，Windows Office 程序等，能否进行修复操作取决于程序本身是否带来修复选项。</li>    <li>强力卸载：强力卸载软件比安全卸载更彻底，能删除要卸载软件的几乎所有相关文件及注册表项。</li>    <li>便携版本：该工具程序本身是绿色版，无需安装，非常小巧，只有几百 KB 的大小，便于携带。</li>    <li>快速查找：该软件可以快速查找要卸载的软件，给安装较多程序的用户带来极大的方便。</li></ul><blockquote><p>下载地址：</p></blockquote><a class="btn-beautify button--animated " href="https://www.aliyundrive.com/s/57outbKziv1"   title="阿里云盘"><i class="fas fa-download"></i><span>阿里云盘</span></a><a class="btn-beautify button--animated " href="https://www.wisecleaner.com.cn/wise-program-uninstaller.html"   title="官网"><i class="fas fa-download"></i><span>官网</span></a>]]></content>
+      
+      
+      <categories>
+          
+          <category> 卸载工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 卸载工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>从微软官网下载系统镜像</title>
+      <link href="blog/9073.html"/>
+      <url>blog/9073.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>今天，介绍如何从微软官网下载到全系列的系统镜像。<br>由于微软官网明面上只提供Media Creation Tool工具，而这个工具是在线安装Windows系统的工具，并不能得到ISO镜像。<br><img src="./从微软官网下载系统镜像/Media Creation Tool 属性.png" alt="Media Creation Tool 属性"><br><img src="./从微软官网下载系统镜像/Media Creation Tool 界面.png" alt="Media Creation Tool 界面"><br>但是实际上，暗地里，微软的服务器上还是有ISO镜像的，只是很多人不知道下载的技巧。</p><h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>今天要传授给大家的正是获取ISO镜像的小技巧。<br>考虑到Windows 7、Windows 8、Windows 8.1都已经淘汰了，因此本文只介绍Windows 10的下载方法。<br><img src="./从微软官网下载系统镜像/0.png" alt=""><br>本文提供的方法，可以下载以下Windows 10版本：</p><ul>    <li>家庭中文版</li>    <li>专业版</li>    <li>教育版</li>    <li>企业版</li>    <li>LTSC版</li>    <li>预览版</li></ul><h2 id="优点"><a href="#优点" class="headerlink" title="优点"></a>优点</h2><p>采用这种方法下载的镜像，一则是镜像始终是最新版本，二则是安全可靠。</p><hr><h1 id="不同版本下载方法"><a href="#不同版本下载方法" class="headerlink" title="不同版本下载方法"></a>不同版本下载方法</h1><h2 id="家庭中文版-专业版"><a href="#家庭中文版-专业版" class="headerlink" title="家庭中文版/专业版"></a>家庭中文版/专业版</h2><p>1、访问上面的链接，点击浏览器右上角三点按钮，依次点击更多工具-开发者工具</p><p><img src="./从微软官网下载系统镜像/1.png" alt=""></p><p>2、在开发者工具里，点击右上角的三点，然后选择More tools-Network conditions</p><p><img src="./从微软官网下载系统镜像/2.png" alt=""></p><p>3、紧接着，在开发者工具栏下方，即可看到Network conditions选项卡，取消勾选Select automatically</p><p><img src="./从微软官网下载系统镜像/3.png" alt=""></p><p>4、从User agent里选择Chrome - Android mobile选项</p><p><img src="./从微软官网下载系统镜像/4.png" alt=""><br><img src="./从微软官网下载系统镜像/4-1.png" alt=""></p><p>5、保持开发者选项不要关闭，刷新页面</p><p><img src="./从微软官网下载系统镜像/5.png" alt=""></p><p>6、这个时候，就能看到下载ISO镜像的新页面了</p><p><img src="./从微软官网下载系统镜像/6.png" alt=""></p><p>7、拉到页面的稍下方，从「选择版本」里选择你需要下载的版本，专业版选择第一个“Windows 10”，家庭中文版选择第二个“Windows 10家庭中文版”</p><p><img src="./从微软官网下载系统镜像/7.png" alt=""></p><p>8、从「选择产品语言」里选择你需要的语言，支持几十种语言，都能选择，然后点击确认</p><p><img src="./从微软官网下载系统镜像/8.png" alt=""></p><p>9、点击「确认」之后，就可以显示32位和64位版本镜像的下载地址了，注意链接有效期仅24小时，所以拿到链接之后尽快下载。</p><p><img src="./从微软官网下载系统镜像/9.png" alt=""></p><p>10、点击「验证您的下载」按钮，就会显示各个版本镜像的哈希值，建议下载之后进行校验，避免出现镜像损坏，从而导致系统安装失败。</p><p><img src="./从微软官网下载系统镜像/10.png" alt=""></p><blockquote><p>下载地址：</p></blockquote><a class="btn-beautify button--animated " href="https://www.microsoft.com/zh-cn/software-download/windows10ISO/"   title="家庭中文版/专业版"><i class="fas fa-download"></i><span>家庭中文版/专业版</span></a><hr><h2 id="教育版"><a href="#教育版" class="headerlink" title="教育版"></a>教育版</h2><p>1、访问上面的链接，点击浏览器右上角三点按钮，依次点击更多工具-开发者工具</p><p><img src="./从微软官网下载系统镜像/1.png" alt=""></p><p>2、在开发者工具里，点击右上角的三点，然后选择More tools-Network conditions</p><p><img src="./从微软官网下载系统镜像/2.png" alt=""></p><p>3、紧接着，在开发者工具栏下方，即可看到Network conditions选项卡，取消勾选Select automatically</p><p><img src="./从微软官网下载系统镜像/3.png" alt=""></p><p>4、从User agent里选择Chrome - Android mobile选项</p><p><img src="./从微软官网下载系统镜像/4.png" alt=""><br><img src="./从微软官网下载系统镜像/4-1.png" alt=""></p><p>5、保持开发者选项不要关闭，刷新页面</p><p><img src="./从微软官网下载系统镜像/5.png" alt=""></p><p>6、这个时候，就能看到下载ISO镜像的新页面了</p><p><img src="./从微软官网下载系统镜像/6.png" alt=""></p><p>7、教育版下载直接选择语言即可，从「选择产品语言」里选择你需要的语言，支持几十种语言，都能选择，然后点击确认</p><p><img src="./从微软官网下载系统镜像/2-7.png" alt=""></p><p>8、点击「确认」之后，就可以显示32位和64位版本镜像的下载地址了，注意链接有效期仅24小时，所以拿到链接之后尽快下载。</p><p><img src="./从微软官网下载系统镜像/2-8.png" alt=""></p><p>9、点击「验证您的下载」按钮，就会显示各个版本镜像的哈希值，建议下载之后进行校验，避免出现镜像损坏，从而导致系统安装失败。</p><p>10、点击「验证您的下载」按钮，就会显示各个版本镜像的哈希值，建议下载之后进行校验，避免出现镜像损坏，从而导致系统安装失败。</p><p><img src="./从微软官网下载系统镜像/10.png" alt=""></p><blockquote><p>下载地址：</p></blockquote><a class="btn-beautify button--animated " href="https://www.microsoft.com/zh-cn/software-download/vlacademicwindows10iso"   title="教育版"><i class="fas fa-download"></i><span>教育版</span></a><hr><h2 id="企业版（含LTSC版）"><a href="#企业版（含LTSC版）" class="headerlink" title="企业版（含LTSC版）"></a>企业版（含LTSC版）</h2><blockquote><p>下载地址：</p></blockquote><p>1、访问上面的链接，选择你需要下载的版本，企业版选择第一个“ISO - Enterprise”，LTSC版选择第二个“ISO - LTSC”</p><p><img src="./从微软官网下载系统镜像/3-1.png" alt=""></p><p>2、然后会要你填一些信息，随便写即可，写完之后点击继续</p><p><img src="./从微软官网下载系统镜像/3-2.png" alt=""></p><p>3、选择需要下载的架构（32位还是64位），并选择需要的语言，然后点击下载</p><p><img src="./从微软官网下载系统镜像/3-3.png" alt=""></p><p>4、这样就得到了下载地址了</p><p><img src="./从微软官网下载系统镜像/3-4.png" alt=""></p><p>5、企业版（含LTSC版）的哈希值藏在「必要条件」里，展开「必要条件」，即可查看到所有镜像的哈希值。同样建议大家下载后要校验哈希值，避免镜像损坏。</p><p><img src="./从微软官网下载系统镜像/3-5.png" alt=""><br><img src="./从微软官网下载系统镜像/3-5-1.png" alt=""></p><a class="btn-beautify button--animated " href="https://www.microsoft.com/zh-cn/evalcenter/evaluate-windows-10-enterprise"   title="企业版（含LTSC版）"><i class="fas fa-download"></i><span>企业版（含LTSC版）</span></a><hr><h2 id="预览版"><a href="#预览版" class="headerlink" title="预览版"></a>预览版</h2><p>提醒：预览版不稳定，不建议用于日常工作。</p><p>1、下载预览版镜像，需要先注册成为Windows Insider，注册地址：<a href="https://insider.windows.com/zh-cn/">https://insider.windows.com/zh-cn/</a></p><p><img src="./从微软官网下载系统镜像/4-1-1.png" alt=""><br><img src="./从微软官网下载系统镜像/4-1-2.png" alt=""></p><p>2、当你成为Windows Insider之后，即可有权限访问下载页面</p><p><img src="./从微软官网下载系统镜像/4-2.png" alt=""></p><p>3、拉倒页面下方，从「Select edition」里选择你需要下载的版本，建议下载最新的预览版</p><p><img src="./从微软官网下载系统镜像/4-3.png" alt=""></p><p>4、从「Select product language」里选择你需要的语言，支持几十种语言，都能选择，选择之后，然后点击「Confirm」</p><p><img src="./从微软官网下载系统镜像/4-4.png" alt=""></p><p>5、点击「Confirm」之后，就可以显示32位和64位版本镜像的下载地址了，注意链接有效期仅24小时，所以拿到链接之后尽快下载。</p><p><img src="./从微软官网下载系统镜像/4-5.png" alt=""></p><a class="btn-beautify button--animated " href="https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewiso"   title="预览版"><i class="fas fa-download"></i><span>预览版</span></a><hr><h2 id="常用的镜像下载网站"><a href="#常用的镜像下载网站" class="headerlink" title="常用的镜像下载网站"></a>常用的镜像下载网站</h2><div class="table-container"><table><thead><tr><th style="text-align:center">网站名称</th><th style="text-align:center">简介</th><th style="text-align:center">地址</th></tr></thead><tbody><tr><td style="text-align:center">I Tell You</td><td style="text-align:center">MSDN,我告诉你是一个镜像下载网站，包含了 企业解决方案、MSDN技术资源库、工具和资源、应用程序、开发人员工具、操作系统、服务器、设计人员工具等8个部分。</td><td style="text-align:center"><a href="https://msdn.itellyou.cn/">I Tell You</a></td></tr><tr><td style="text-align:center">NEXT I Tell You</td><td style="text-align:center">NEXT I Tell You是一个镜像下载网站，包含了 企业解决方案、MSDN技术资源库、工具和资源、应用程序、开发人员工具、操作系统、服务器、设计人员工具等8个部分。</td><td style="text-align:center"><a href="https://next.itellyou.cn/">NEXT I Tell You</a></td></tr><tr><td style="text-align:center">TechBench by WZT</td><td style="text-align:center">TechBench by WZT 是一个让使用者快速从微软官网获取安装程序的在线工具，可下载所有版本的 Windows、Office 或语言包，另外还可以下载 Windows Server、office Server、Power BI、System Center…等软件的各种版本。</td><td style="text-align:center"><a href="https://tb.rg-adguard.net/public.php">TechBench by WZT</a></td></tr><tr><td style="text-align:center">HelloWindows</td><td style="text-align:center">HelloWindows,是一个由国人搭建,提供系统镜像下载地址、下载方法和激活方法的系统资源网站。除了系统镜像外,也提供Office/WPS的特殊版本。</td><td style="text-align:center"><a href="https://hellowindows.cn/">HelloWindows</a></td></tr></tbody></table></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 下载系统镜像 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 下载系统镜像 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>卸载工具--HiBit Uninstaller</title>
       <link href="blog/e89e.html"/>
       <url>blog/e89e.html</url>
